@@ -2,7 +2,7 @@ name: octave-kernel
 channels:
 - conda-forge
 dependencies:
-- gnuplot
+- qt
 - jupyterlab=2
 - nodejs
 - octave
