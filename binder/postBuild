@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "c.OctaveKernel.plot_settings = dict(backend='qt')" >> ~/.jupyter/octave_kernel_config.py
