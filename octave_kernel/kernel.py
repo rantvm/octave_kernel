@@ -201,7 +201,7 @@ class OctaveEngine(object):
                 del settings[key]
 
         settings.setdefault('format', 'png')
-        settings.setdefault('backend', 'inline')
+        settings.setdefault('backend', 'qt')
         settings.setdefault('width', -1)
         settings.setdefault('height', -1)
         settings.setdefault('resolution', 0)
